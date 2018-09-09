@@ -17,5 +17,8 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>lemon_pie_01</item>
+        <item>lemon_pie_02</item>
+        <item>lemon_pie_03</item>
     </string-array>
 </resources>
